@@ -6,7 +6,7 @@ Este repositório apresenta modelos de documentos usados por estudantes do Labor
 ## logos
 
 Contém logotipos e outras imagens do LBS, DCC, UFMG, PPG-Bioinformática, dentre outros.
-
+<img src="/logos/header.png">
 
 ## modelos
 
