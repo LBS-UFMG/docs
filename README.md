@@ -4,14 +4,8 @@ Este repositório apresenta modelos de documentos usados por estudantes do Labor
 
 - <a href="/modelos">Modelo de dissertação e tese</a>
 - <a href="/logos">Logotipos</a>
+- <a href="/slides">Apresentações de Slides</a>
 
-
-## logos
-
-Este repositório contém logotipos e outras imagens do LBS, DCC, UFMG, PPG-Bioinformática, dentre outros.
-<br>
-
-<img src="/logos/header.png">
 
 ## modelos
 
@@ -23,6 +17,24 @@ Este repositório contém modelos de documentos usados para construção de tese
 
 - **MODELO_carta_de_recomendação_lbs.docx**: modelo de carta de recomendação do LBS.
 
+<br>
+
+## logos
+
+Este repositório contém logotipos e outras imagens do LBS, DCC, UFMG, PPG-Bioinformática, dentre outros.
+<br>
+
+<img src="/logos/header.png">
+
+<br>
+
+## slides
+
+Este repositório contém apresentações de slides criadas por alunos do LBS.
+
+- <a href="slides/apresentacao_bioinfo_estrutural_e_historia_LBS.pptx">Apresentação da história do LBS</a>
+
+<br>
 
 *Modelos criados pelo Laboratório de Bioinformática e Sistemas / DCC / UFMG*
 <img src="/logos/LBS-LOGO-v2.png">
